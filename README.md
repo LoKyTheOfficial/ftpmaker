@@ -14,15 +14,17 @@ Follow the steps 1 by 1.
 
 <br>
 <br>
-			***
-	
+
+***
+***
+
 TLS included.
 <br>
 On your main computer (if you use a VM) i recommend you FileZila Portable.
 
 
-			***
-
+***
+***
 
 If you have problems while connecting to your proFTP server try this command :
 <br>
@@ -34,9 +36,15 @@ If you have problems while connecting to your proFTP server try this command :
 To delete an entire line in a file : 	   Ctrl + k
 <br>
 To paste something deleted with Ctrl + k : Ctrl + u
+
 <br>
 <br>
 
-			***
+***
+***
+
+<br>
+<br>
+
 # Have fun !
 
